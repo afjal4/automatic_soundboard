@@ -2,3 +2,4 @@
 A-Level Project in python using RT-S2T and NLP algorithms
 
 _Note: it will be difficult to get this to run since I didn't know how to make a requirements file :[_
+_Plan to make a v2 soon!_
